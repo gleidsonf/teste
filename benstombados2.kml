@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="Bens Tombados_1" id="Bens Tombados_1">
+            <SimpleField type="int" name="GID"/>
+            <SimpleField type="string" name="NOME"/>
+            <SimpleField type="string" name="TTOMB"/>
+            <SimpleField type="string" name="DESCRICAO"/>
+            <SimpleField type="string" name="FONTE"/>
+            <SimpleField type="int" name="ANO_REF"/>
+        </Schema>
+        <Folder>
+            <name>Bens Tombados</name>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1884">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">1</SimpleData>
+                        <SimpleData name="NOME">Fortaleza de Nossa Senhora de Assunção</SimpleData>
+                        <SimpleData name="TTOMB">Federal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Alberto Nepomuceno s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <name>Fortaleza de Nossa Senhora de Assunção</name>
+                <description>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Alberto Nepomuceno s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado
+</description>
+                <Point>
+                    <coordinates>-38.525003906569,-3.7228432271915</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1885">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">2</SimpleData>
+                        <SimpleData name="NOME">Palacete Carvalho Motta - Centro de Documentação e Referência do Semiárido</SimpleData>
+                        <SimpleData name="TTOMB">Federal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Pedro Pereira, n°683, esquina com General Sampaio, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.531430649074,-3.7287792147965</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1886">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">3</SimpleData>
+                        <SimpleData name="NOME">Passeio Público - Praça dos Mártires</SimpleData>
+                        <SimpleData name="TTOMB">Federal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Doutor João Moreira, s/n, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5263149,-3.7226575</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1887">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">4</SimpleData>
+                        <SimpleData name="NOME">Theatro José de Alencar</SimpleData>
+                        <SimpleData name="TTOMB">Federal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Liberato Barroso, n°525, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5319087,-3.7274778</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1888">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">5</SimpleData>
+                        <SimpleData name="NOME">Antiga Alfândega</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Pessoa Anta, n°287, Paria de Iracema&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5204303,-3.7208668</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1889">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">6</SimpleData>
+                        <SimpleData name="NOME">Antiga Escola Normal - Atual Sede do IPHAN</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Liberato Barroso, n°525, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.531888583432,-3.7272295513483</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_188a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">7</SimpleData>
+                        <SimpleData name="NOME">Banco Frota Gentil</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Floriano Peixoto, n°326, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5264987,-3.7253796</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_188b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">8</SimpleData>
+                        <SimpleData name="NOME">Casa de Detenção Ou Antiga Cadeia Pública - Centro de Turismo</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Senador Pompeu, n°350, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.528317,-3.7222574</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_188c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">9</SimpleData>
+                        <SimpleData name="NOME">Cine São Luiz</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, n°500, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5279906,-3.7275841</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_188d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">10</SimpleData>
+                        <SimpleData name="NOME">Conjunto Palácio da Abolição e Mausoléu Castelo Branco</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Barão de Studart, entre as Ruas Tenente Benévolo e Deputado Moreira da Rocha&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5044159,-3.7286279</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_188e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">11</SimpleData>
+                        <SimpleData name="NOME">Estação Ferroviária Doutor João Pelipe</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Doutor João Moreira, s/n, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.529813948965,-3.7217014653007</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_188f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">12</SimpleData>
+                        <SimpleData name="NOME">Farol do Mucuripe</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Vicente de Castro, s/n, Mucuripe&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.470556975116,-3.7077795310995</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1890">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">13</SimpleData>
+                        <SimpleData name="NOME">Galpões da RFFSA - Extensão do Conjunto da Estação João Felipe</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 24 de maio, s/n, Praça Castro Carreiro, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53049661475,-3.7221398139165</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1891">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">14</SimpleData>
+                        <SimpleData name="NOME">Hotel do Norte - Sedes do IAB-CE, da Orquestra Filarmônica do Estado do Ceará e Museu da Indústria</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Doutor João Moreira, n°143, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5259575,-3.7232448</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1892">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">15</SimpleData>
+                        <SimpleData name="NOME">Igreja de Nossa Senhora do Rosário</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Praça General Tibúrcio - Praça dos Leões, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5265317,-3.7274442</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1893">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">16</SimpleData>
+                        <SimpleData name="NOME">Palacete Ceará - Caixa Econômica 3 da Praça do Ferreira</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Floriano Peixote, n°570, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.527135026845,-3.7273890232062</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1894">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">17</SimpleData>
+                        <SimpleData name="NOME">Palacete Jeremias Arruda</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Barão do Rio Branco, n°1594, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5301504,-3.7323202</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1895">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">18</SimpleData>
+                        <SimpleData name="NOME">Palácio da Luz - Academia Cearense de Letras</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Sena Madureira - Rua do Rosário&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.526313932586,-3.7272824872913</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1896">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">19</SimpleData>
+                        <SimpleData name="NOME">Praça General Tibúrcio - Praça dos Leões</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua General Bezerril, Rua São Paulo, Rua Sena Madureira&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.526133958197,-3.7268939618694</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1897">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">20</SimpleData>
+                        <SimpleData name="NOME">Secretaria 2 da Fazenda</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Alberto Nepomuceno, n°2, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5230886,-3.720965</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1898">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">21</SimpleData>
+                        <SimpleData name="NOME">Seminário da Prainha</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Confluência das Ruas Dom Manuel e Monsenhor Tabosa&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.519442312878,-3.7238448662942</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_1899">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">22</SimpleData>
+                        <SimpleData name="NOME">Solar Fernandes Vieira - Arquivo Público</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Senador Pompeu, n°648, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5288816,-3.7243324</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_189a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">23</SimpleData>
+                        <SimpleData name="NOME">Sobrado do Doutor José Lourenço</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, n°154, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5268428,-3.7244072</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_189b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">24</SimpleData>
+                        <SimpleData name="NOME">Capela de Santa Teresinha</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Castelo Branco, s/n, Arraial Moura Brasil&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.530834074503,-3.7197571066624</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_189c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">25</SimpleData>
+                        <SimpleData name="NOME">Estoril</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Tabajara, n°397, Praia de Iracema&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5162297,-3.7190794</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_189d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">26</SimpleData>
+                        <SimpleData name="NOME">Espelho d'água da lagoa de Messejana</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;-&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.495771352148,-3.8284679652952</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_189e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">27</SimpleData>
+                        <SimpleData name="NOME">Espelho d'água da Lagoa de Parangaba</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;-&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.56666750083,-3.7692036329953</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_189f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">28</SimpleData>
+                        <SimpleData name="NOME">Riacho Papicu e suas Margens</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;-&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.467543784476,-3.7422785602455</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">29</SimpleData>
+                        <SimpleData name="NOME">Teatro São José</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Rufino de Alencar, nº 523 - Praça do Cristo Redentor&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.520672980643,-3.7236901415746</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">30</SimpleData>
+                        <SimpleData name="NOME">Ponte dos Ingleses</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua dos Cariris&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.516928616858,-3.7184788901783</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">31</SimpleData>
+                        <SimpleData name="NOME">Parque da LIberdade</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Pedro I, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.525726262427,-3.7314440625311</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">32</SimpleData>
+                        <SimpleData name="NOME">Feira de Artesanatos da Beira-Mar</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Beira-Mar - s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.496924702025,-3.7254753962606</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">33</SimpleData>
+                        <SimpleData name="NOME">Palácio João Brígido</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São José, n° 1&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.523065511084,-3.7258340526871</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">34</SimpleData>
+                        <SimpleData name="NOME">Bosque do Pajeú</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São José, n° 1&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.522947493887,-3.7256734602754</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">35</SimpleData>
+                        <SimpleData name="NOME">Escola Jesus Maria José</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Coronel Ferraz, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.523572448588,-3.7277103051922</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">36</SimpleData>
+                        <SimpleData name="NOME">Casa do Barão de Camocim</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua General Sampaio, n° 1632&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.532777789927,-3.7327314690894</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">37</SimpleData>
+                        <SimpleData name="NOME">Estação Ferroviária da Parangaba</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Dom Pedro II, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.562853399611,-3.7746902505481</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18a9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">38</SimpleData>
+                        <SimpleData name="NOME">Mercado dos Pinhões</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Praça Visconde de Pelotas&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.515300515986,-3.7267895769309</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18aa">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">39</SimpleData>
+                        <SimpleData name="NOME">Paróquia do Senhor do Bom Jesus dos Aflitos</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Praça Coronel Alfredo Weyne, nº 100&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.563738528586,-3.7748481575647</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18ab">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">40</SimpleData>
+                        <SimpleData name="NOME">Mercado da Aerolândia</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;BR 116, nº 5431&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.517137829161,-3.768555942199</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18ac">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">41</SimpleData>
+                        <SimpleData name="NOME">Casa Rachel de Queiroz</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Ivo, nº 290&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.580883208609,-3.7587013475837</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18ad">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">42</SimpleData>
+                        <SimpleData name="NOME">Ideal Club</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Monsenhor Tabosa, nº 1331&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.50611395011,-3.7239283541783</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18ae">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">43</SimpleData>
+                        <SimpleData name="NOME">Colégio Doroteias</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Visconde do Rio Branco, nº  2078&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.523880902625,-3.7392808865235</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18af">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">44</SimpleData>
+                        <SimpleData name="NOME">Náutico Atlético Cearense</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Abolição, nº 2727&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.494355145789,-3.7266156020058</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">45</SimpleData>
+                        <SimpleData name="NOME">IMPARH</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua João Pessoa, nº 5609&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.554962340689,-3.7609923768093</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">46</SimpleData>
+                        <SimpleData name="NOME">Santa Casa de Misericórdia</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Barão do Rio Branco, nº 20&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.527206841803,-3.7223652500745</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">47</SimpleData>
+                        <SimpleData name="NOME">Pavimentação da Rua José Avelino</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua José Avelino&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.521938983298,-3.7222340990903</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">48</SimpleData>
+                        <SimpleData name="NOME">Assembleia Provincial - Museu do Ceará</SimpleData>
+                        <SimpleData name="TTOMB">Federal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São Paulo, 51, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.526511,-3.7264248</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">49</SimpleData>
+                        <SimpleData name="NOME">Casa de José de Alencar - Centro de Turismo</SimpleData>
+                        <SimpleData name="TTOMB">Federal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Washington Soares, n° 6055, Edson Queiroz&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.478346491896,-3.8116500677818</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">50</SimpleData>
+                        <SimpleData name="NOME">Igreja de São Pedro dos Pescadores</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Beira Mar, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.48032209,-3.722280071</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">51</SimpleData>
+                        <SimpleData name="NOME">Casa do Português</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida João Pessoa, 5094&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.55325646,-3.756131962</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">52</SimpleData>
+                        <SimpleData name="NOME">Antiga Sede do Sport Club Maguary</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Barão do Rio Branco, nº 2955&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5340733,-3.744087865</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">53</SimpleData>
+                        <SimpleData name="NOME">Farmácia Oswaldo Cruz</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 576&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52810404,-3.727967252</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18b9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">54</SimpleData>
+                        <SimpleData name="NOME">Escola de Música Luís Assunção</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Sólon Pinheiro, nº 60&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5265497,-3.730986377</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18ba">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">55</SimpleData>
+                        <SimpleData name="NOME">Colégio Marista Cearense</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Duque de Caxias, nº 101&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52544195,-3.733761928</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18bb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">56</SimpleData>
+                        <SimpleData name="NOME">Bar Avião</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 15 de novembro, nº 09&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.55972192,-3.767450584</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18bc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">57</SimpleData>
+                        <SimpleData name="NOME">Lord Hotel</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Liberato Barroso,  nº 555&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53341884,-3.72687255</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18bd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">58</SimpleData>
+                        <SimpleData name="NOME">Casa da câmara da Villa de Arronches</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Carlos Amora, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.56411001,-3.77450558</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18be">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">59</SimpleData>
+                        <SimpleData name="NOME">Casa Frei Tito de Alencar</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Rodrigues Junior, nº 364&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.51977444,-3.727983312</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18bf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">60</SimpleData>
+                        <SimpleData name="NOME">Bangalô de Aristides Capibaribe</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Filomeno Gomes, nº 742&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.54131526,-3.721443178</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">61</SimpleData>
+                        <SimpleData name="NOME">Paróquia Nossa Senhora do Perpétuo Socorro</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Wenefrido Melo, nº 88&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.57739902,-3.808966103</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">62</SimpleData>
+                        <SimpleData name="NOME">Capela do Sagrado Coração de Jesus</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. João Pessoa, nº 6590&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.56005317,-3.76728197</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">63</SimpleData>
+                        <SimpleData name="NOME">V Batalhão da Polícia Militar</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Pompeu, nº 555&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52903611,-3.73542672</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">64</SimpleData>
+                        <SimpleData name="NOME">Casa antiga da rua Franklin Távora</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Franklin Távora, nº 144&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52273292,-3.729757852</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">65</SimpleData>
+                        <SimpleData name="NOME">Caixas d'água do Benfica</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Pompeu, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53231913,-3.734067051</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">66</SimpleData>
+                        <SimpleData name="NOME">Círculo Operário do Montese</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Aquiles Boris, nº 17&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5474307,-3.768732585</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">67</SimpleData>
+                        <SimpleData name="NOME">Colégio Militar de Fortaleza</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Santos Dumont, nº 485&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.51774401,-3.729313548</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">68</SimpleData>
+                        <SimpleData name="NOME">Casa na Rua Floriano Peixoto</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Floriano Peixoto, nº 137&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52587915,-3.723740996</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">69</SimpleData>
+                        <SimpleData name="NOME">Cemitério São João Batista</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Padre Mororó, nº 487&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53880471,-3.720224007</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18c9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">70</SimpleData>
+                        <SimpleData name="NOME">Associação Beneficente do Pessoal da Rede de Viação Cearense</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Senador Alencar, nº 596&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5311336,-3.723734305</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18ca">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">71</SimpleData>
+                        <SimpleData name="NOME">Associação Comercial</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 02&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52641157,-3.723067844</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18cb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">72</SimpleData>
+                        <SimpleData name="NOME">Procuradoria da União no Estado do Ceará</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, nº 1342&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53795579,-3.723829322</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18cc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">73</SimpleData>
+                        <SimpleData name="NOME">Bangalô Amarelo</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, nº 1451&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53925532,-3.723240482</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18cd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">74</SimpleData>
+                        <SimpleData name="NOME">Vila Filomeno</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Francisco Sá, n º1743, 1743A, 1743B / nº 1771, 1771A, 1771B&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.54202873,-3.722691789</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18ce">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">75</SimpleData>
+                        <SimpleData name="NOME">Casa do Acrísio</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São Paulo, nº 1889&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.54224867,-3.721401691</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18cf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">76</SimpleData>
+                        <SimpleData name="NOME">Associação Beneficente dos Motoristas do Estado do Ceará</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 1263&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52983272,-3.734075081</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">77</SimpleData>
+                        <SimpleData name="NOME">Prédio na Avenida Francisco Sá</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Francisco Sá, nº 2235&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.54550487,-3.721401691</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">78</SimpleData>
+                        <SimpleData name="NOME">Prédio na Rua Major Facundo</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 1154&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52968789,-3.733055328</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">79</SimpleData>
+                        <SimpleData name="NOME">Associação dos Merceeiros</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua General Clarindo de Queiroz, nº 583&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53103301,-3.732364786</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">80</SimpleData>
+                        <SimpleData name="NOME">Casa na Rua Clarindo de Queiroz, nº 615</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Clarindo de Queiroz, nº 615&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52969191,-3.732960311</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">81</SimpleData>
+                        <SimpleData name="NOME">Casa na Rua da Assunção, nº 398</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua da Assunção, nº 398&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52846212,-3.733510336</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">82</SimpleData>
+                        <SimpleData name="NOME">Casa na Rua da Assunção, nº 390</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua da Assunção, nº 390&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52845139,-3.733403275</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">83</SimpleData>
+                        <SimpleData name="NOME">Prédio na Rua Santo Inácio, nº 596</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Santo Inácio, nº 596&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.54071713,-3.717863281</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">84</SimpleData>
+                        <SimpleData name="NOME">Casa na Rua 25 de março, nº 747</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 25 de março, nº 747&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52274365,-3.730587575</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">85</SimpleData>
+                        <SimpleData name="NOME">Imóvel na Av. Imperador, nº 1313</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Imóvel na Av. Imperador, nº 1313&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53596157,-3.732712733</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18d9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">86</SimpleData>
+                        <SimpleData name="NOME">Imóvel na Av. Santos Dumont, nº 1112</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 1112&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.5144288,-3.731112174</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18da">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">87</SimpleData>
+                        <SimpleData name="NOME">Imóvel na Av. Santos Dumont, nº 938</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 938&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.51520127,-3.730855227</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18db">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">88</SimpleData>
+                        <SimpleData name="NOME">Imóvel na Rua 25 de março, nº 964</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 25 de março, nº 964&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52359122,-3.73235408</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18dc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">89</SimpleData>
+                        <SimpleData name="NOME">Imóvel na Av. Santos Dumont, nº 1028</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 1028&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.51421422,-3.731165704</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18dd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">90</SimpleData>
+                        <SimpleData name="NOME">Colégio Externato São Vicente de Paulo</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 25 de março, nº 407&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52184242,-3.727595214</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18de">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">91</SimpleData>
+                        <SimpleData name="NOME">Igreja Nossa Senhora do Patrocínio</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, nº 536&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53646583,-3.724121065</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18df">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">92</SimpleData>
+                        <SimpleData name="NOME">Igreja de Santa Edwiges</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Presidente Castelo Branco, nº 600&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.53246397,-3.718864315</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">93</SimpleData>
+                        <SimpleData name="NOME">Seminário Salvatoriano</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Germano Frank, 613&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.56144256,-3.776911652</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">94</SimpleData>
+                        <SimpleData name="NOME">Hotel Excelsior</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, n° 172&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52647996,-3.72753633</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">95</SimpleData>
+                        <SimpleData name="NOME">Condomínio Residencial Iracema</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Augusto, números 149, 185, 205 e 235&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.51063683,-3.722527181</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">96</SimpleData>
+                        <SimpleData name="NOME">Edifício Dona Bela</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Coronel Ferraz, números 30, 62, 76&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52333373,-3.727900339</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">97</SimpleData>
+                        <SimpleData name="NOME">Igreja do Cristo Rei</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Nogueira Acioli, nº 805&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.51703591,-3.730812403</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">98</SimpleData>
+                        <SimpleData name="NOME">Imóvel residencial no Montese</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Euzébio de Queiroz, 1591&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.55477995,-3.768786113</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">99</SimpleData>
+                        <SimpleData name="NOME">Imóvel na Av. Santos Dumont, nº 1020</SimpleData>
+                        <SimpleData name="TTOMB">Municipal</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 1020&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.51453407,-3.73099976</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Bens Tombados.fid-2be50750_153af4824fe_18e7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Bens Tombados_1">
+                        <SimpleData name="GID">100</SimpleData>
+                        <SimpleData name="NOME">Sociedade União Cearense</SimpleData>
+                        <SimpleData name="TTOMB">Estadual</SimpleData>
+                        <SimpleData name="DESCRICAO">&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua João Moreira, nº 143&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</SimpleData>
+                        <SimpleData name="FONTE">SECULTFOR</SimpleData>
+                        <SimpleData name="ANO_REF">2016</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-38.52646119,-3.723056469</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
