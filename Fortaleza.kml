@@ -1,0 +1,2548 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Fortalez</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Bens Tombados</name>
+			<Placemark>
+				<name>Fortaleza de Nossa Senhora de Assunção</name>
+				<description><![CDATA[GID: 1<br>TTOMB: Federal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Alberto Nepomuceno s/n<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>1</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Federal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Alberto Nepomuceno s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.525004,-3.722843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palacete Carvalho Motta - Centro de Documentação e Referência do Semiárido</name>
+				<description><![CDATA[GID: 2<br>TTOMB: Federal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Pedro Pereira, n°683, esquina com General Sampaio, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>2</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Federal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Pedro Pereira, n°683, esquina com General Sampaio, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.531431,-3.728779,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Passeio Público - Praça dos Mártires</name>
+				<description><![CDATA[GID: 3<br>TTOMB: Federal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Doutor João Moreira, s/n, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>3</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Federal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Doutor João Moreira, s/n, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526315,-3.722658,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Theatro José de Alencar</name>
+				<description><![CDATA[GID: 4<br>TTOMB: Federal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Liberato Barroso, n°525, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>4</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Federal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Liberato Barroso, n°525, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.531909,-3.727478,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Antiga Alfândega</name>
+				<description><![CDATA[GID: 5<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Pessoa Anta, n°287, Paria de Iracema<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>5</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Pessoa Anta, n°287, Paria de Iracema&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.52043,-3.720867,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Antiga Escola Normal - Atual Sede do IPHAN</name>
+				<description><![CDATA[GID: 6<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Liberato Barroso, n°525, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>6</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Liberato Barroso, n°525, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.531889,-3.72723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banco Frota Gentil</name>
+				<description><![CDATA[GID: 7<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Floriano Peixoto, n°326, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>7</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Floriano Peixoto, n°326, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526499,-3.72538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa de Detenção Ou Antiga Cadeia Pública - Centro de Turismo</name>
+				<description><![CDATA[GID: 8<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Senador Pompeu, n°350, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>8</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Senador Pompeu, n°350, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.528317,-3.722257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cine São Luiz</name>
+				<description><![CDATA[GID: 9<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Major Facundo, n°500, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>9</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, n°500, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.527991,-3.727584,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Conjunto Palácio da Abolição e Mausoléu Castelo Branco</name>
+				<description><![CDATA[GID: 10<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Barão de Studart, entre as Ruas Tenente Benévolo e Deputado Moreira da Rocha<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>10</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Barão de Studart, entre as Ruas Tenente Benévolo e Deputado Moreira da Rocha&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.504416,-3.728628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estação Ferroviária Doutor João Pelipe</name>
+				<description><![CDATA[GID: 11<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Doutor João Moreira, s/n, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>11</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Doutor João Moreira, s/n, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.529814,-3.721701,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Farol do Mucuripe</name>
+				<description><![CDATA[GID: 12<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Vicente de Castro, s/n, Mucuripe<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>12</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Vicente de Castro, s/n, Mucuripe&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.470557,-3.70778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Galpões da RFFSA - Extensão do Conjunto da Estação João Felipe</name>
+				<description><![CDATA[GID: 13<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua 24 de maio, s/n, Praça Castro Carreiro, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>13</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 24 de maio, s/n, Praça Castro Carreiro, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.530497,-3.72214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel do Norte - Sedes do IAB-CE, da Orquestra Filarmônica do Estado do Ceará e Museu da Indústria</name>
+				<description><![CDATA[GID: 14<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Doutor João Moreira, n°143, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>14</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Doutor João Moreira, n°143, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.525958,-3.723245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja de Nossa Senhora do Rosário</name>
+				<description><![CDATA[GID: 15<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Praça General Tibúrcio - Praça dos Leões, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>15</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Praça General Tibúrcio - Praça dos Leões, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526532,-3.727444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palacete Ceará - Caixa Econômica 3 da Praça do Ferreira</name>
+				<description><![CDATA[GID: 16<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Floriano Peixote, n°570, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>16</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Floriano Peixote, n°570, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.527135,-3.727389,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palacete Jeremias Arruda</name>
+				<description><![CDATA[GID: 17<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Barão do Rio Branco, n°1594, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>17</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Barão do Rio Branco, n°1594, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.53015,-3.73232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palácio da Luz - Academia Cearense de Letras</name>
+				<description><![CDATA[GID: 18<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Sena Madureira - Rua do Rosário<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>18</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Sena Madureira - Rua do Rosário&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526314,-3.727282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Praça General Tibúrcio - Praça dos Leões</name>
+				<description><![CDATA[GID: 19<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua General Bezerril, Rua São Paulo, Rua Sena Madureira<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>19</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua General Bezerril, Rua São Paulo, Rua Sena Madureira&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526134,-3.726894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Secretaria 2 da Fazenda</name>
+				<description><![CDATA[GID: 20<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Alberto Nepomuceno, n°2, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>20</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Alberto Nepomuceno, n°2, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.523089,-3.720965,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seminário da Prainha</name>
+				<description><![CDATA[GID: 21<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Confluência das Ruas Dom Manuel e Monsenhor Tabosa<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>21</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Confluência das Ruas Dom Manuel e Monsenhor Tabosa&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.519442,-3.723845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Solar Fernandes Vieira - Arquivo Público</name>
+				<description><![CDATA[GID: 22<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Senador Pompeu, n°648, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>22</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Senador Pompeu, n°648, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.528882,-3.724332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sobrado do Doutor José Lourenço</name>
+				<description><![CDATA[GID: 23<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Major Facundo, n°154, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>23</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, n°154, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526843,-3.724407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capela de Santa Teresinha</name>
+				<description><![CDATA[GID: 24<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Castelo Branco, s/n, Arraial Moura Brasil<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>24</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Castelo Branco, s/n, Arraial Moura Brasil&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.530834,-3.719757,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estoril</name>
+				<description><![CDATA[GID: 25<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Tabajara, n°397, Praia de Iracema<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>25</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Tabajara, n°397, Praia de Iracema&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.51623,-3.719079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Espelho d'água da lagoa de Messejana</name>
+				<description><![CDATA[GID: 26<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>-<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>26</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;-&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.495771,-3.828468,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Espelho d'água da Lagoa de Parangaba</name>
+				<description><![CDATA[GID: 27<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>-<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>27</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;-&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.566668,-3.769204,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Riacho Papicu e suas Margens</name>
+				<description><![CDATA[GID: 28<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>-<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>28</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;-&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.467544,-3.742279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Teatro São José</name>
+				<description><![CDATA[GID: 29<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Rufino de Alencar, nº 523 - Praça do Cristo Redentor<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>29</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Rufino de Alencar, nº 523 - Praça do Cristo Redentor&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.520673,-3.72369,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ponte dos Ingleses</name>
+				<description><![CDATA[GID: 30<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua dos Cariris<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>30</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua dos Cariris&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.516929,-3.718479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque da LIberdade</name>
+				<description><![CDATA[GID: 31<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Pedro I, s/n<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>31</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Pedro I, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.525726,-3.731444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Feira de Artesanatos da Beira-Mar</name>
+				<description><![CDATA[GID: 32<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Beira-Mar - s/n<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>32</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Beira-Mar - s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.496925,-3.725475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palácio João Brígido</name>
+				<description><![CDATA[GID: 33<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua São José, n° 1<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>33</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São José, n° 1&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.523066,-3.725834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bosque do Pajeú</name>
+				<description><![CDATA[GID: 34<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua São José, n° 1<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>34</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São José, n° 1&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.522947,-3.725673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escola Jesus Maria José</name>
+				<description><![CDATA[GID: 35<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Coronel Ferraz, s/n<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>35</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Coronel Ferraz, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.523572,-3.72771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa do Barão de Camocim</name>
+				<description><![CDATA[GID: 36<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua General Sampaio, n° 1632<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>36</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua General Sampaio, n° 1632&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.532778,-3.732731,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Estação Ferroviária da Parangaba</name>
+				<description><![CDATA[GID: 37<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Dom Pedro II, s/n<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>37</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Dom Pedro II, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.562853,-3.77469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mercado dos Pinhões</name>
+				<description><![CDATA[GID: 38<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Praça Visconde de Pelotas<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>38</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Praça Visconde de Pelotas&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.515301,-3.72679,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paróquia do Senhor do Bom Jesus dos Aflitos</name>
+				<description><![CDATA[GID: 39<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Praça Coronel Alfredo Weyne, nº 100<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>39</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Praça Coronel Alfredo Weyne, nº 100&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.563739,-3.774848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mercado da Aerolândia</name>
+				<description><![CDATA[GID: 40<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>BR 116, nº 5431<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>40</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;BR 116, nº 5431&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.517138,-3.768556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa Rachel de Queiroz</name>
+				<description><![CDATA[GID: 41<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Antônio Ivo, nº 290<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>41</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Ivo, nº 290&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.580883,-3.758701,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ideal Club</name>
+				<description><![CDATA[GID: 42<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Av. Monsenhor Tabosa, nº 1331<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>42</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Monsenhor Tabosa, nº 1331&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.506114,-3.723928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colégio Doroteias</name>
+				<description><![CDATA[GID: 43<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Visconde do Rio Branco, nº  2078<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>43</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Visconde do Rio Branco, nº  2078&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.523881,-3.739281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Náutico Atlético Cearense</name>
+				<description><![CDATA[GID: 44<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Abolição, nº 2727<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>44</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Abolição, nº 2727&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.494355,-3.726616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IMPARH</name>
+				<description><![CDATA[GID: 45<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua João Pessoa, nº 5609<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>45</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua João Pessoa, nº 5609&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.554962,-3.760992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Casa de Misericórdia</name>
+				<description><![CDATA[GID: 46<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Barão do Rio Branco, nº 20<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>46</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Barão do Rio Branco, nº 20&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.527207,-3.722365,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pavimentação da Rua José Avelino</name>
+				<description><![CDATA[GID: 47<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua José Avelino<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>47</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua José Avelino&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.521939,-3.722234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Assembleia Provincial - Museu do Ceará</name>
+				<description><![CDATA[GID: 48<br>TTOMB: Federal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua São Paulo, 51, Centro<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>48</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Federal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São Paulo, 51, Centro&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526511,-3.726425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa de José de Alencar - Centro de Turismo</name>
+				<description><![CDATA[GID: 49<br>TTOMB: Federal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Washington Soares, n° 6055, Edson Queiroz<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>49</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Federal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Washington Soares, n° 6055, Edson Queiroz&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.478346,-3.81165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja de São Pedro dos Pescadores</name>
+				<description><![CDATA[GID: 50<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Beira Mar, s/n<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>50</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Beira Mar, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.480322,-3.72228,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa do Português</name>
+				<description><![CDATA[GID: 51<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida João Pessoa, 5094<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>51</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida João Pessoa, 5094&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.553256,-3.756132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Antiga Sede do Sport Club Maguary</name>
+				<description><![CDATA[GID: 52<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Barão do Rio Branco, nº 2955<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>52</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Barão do Rio Branco, nº 2955&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.534073,-3.744088,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Farmácia Oswaldo Cruz</name>
+				<description><![CDATA[GID: 53<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Major Facundo, nº 576<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>53</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 576&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.528104,-3.727967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escola de Música Luís Assunção</name>
+				<description><![CDATA[GID: 54<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Sólon Pinheiro, nº 60<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>54</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Sólon Pinheiro, nº 60&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.52655,-3.730986,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colégio Marista Cearense</name>
+				<description><![CDATA[GID: 55<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Duque de Caxias, nº 101<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>55</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Duque de Caxias, nº 101&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.525442,-3.733762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bar Avião</name>
+				<description><![CDATA[GID: 56<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua 15 de novembro, nº 09<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>56</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 15 de novembro, nº 09&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.559722,-3.767451,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lord Hotel</name>
+				<description><![CDATA[GID: 57<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Liberato Barroso,  nº 555<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>57</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Liberato Barroso,  nº 555&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.533419,-3.726873,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa da câmara da Villa de Arronches</name>
+				<description><![CDATA[GID: 58<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Carlos Amora, s/n<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>58</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Carlos Amora, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.56411,-3.774506,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa Frei Tito de Alencar</name>
+				<description><![CDATA[GID: 59<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Rodrigues Junior, nº 364<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>59</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Rodrigues Junior, nº 364&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.519774,-3.727983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bangalô de Aristides Capibaribe</name>
+				<description><![CDATA[GID: 60<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Av. Filomeno Gomes, nº 742<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>60</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Filomeno Gomes, nº 742&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.541315,-3.721443,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paróquia Nossa Senhora do Perpétuo Socorro</name>
+				<description><![CDATA[GID: 61<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Wenefrido Melo, nº 88<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>61</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Wenefrido Melo, nº 88&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.577399,-3.808966,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Capela do Sagrado Coração de Jesus</name>
+				<description><![CDATA[GID: 62<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Av. João Pessoa, nº 6590<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>62</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. João Pessoa, nº 6590&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.560053,-3.767282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>V Batalhão da Polícia Militar</name>
+				<description><![CDATA[GID: 63<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Antônio Pompeu, nº 555<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>63</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Pompeu, nº 555&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.529036,-3.735427,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa antiga da rua Franklin Távora</name>
+				<description><![CDATA[GID: 64<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Franklin Távora, nº 144<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>64</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Franklin Távora, nº 144&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.522733,-3.729758,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caixas d'água do Benfica</name>
+				<description><![CDATA[GID: 65<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Antônio Pompeu, s/n<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>65</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Pompeu, s/n&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.532319,-3.734067,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Círculo Operário do Montese</name>
+				<description><![CDATA[GID: 66<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Aquiles Boris, nº 17<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>66</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Aquiles Boris, nº 17&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.547431,-3.768733,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colégio Militar de Fortaleza</name>
+				<description><![CDATA[GID: 67<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Av. Santos Dumont, nº 485<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>67</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Santos Dumont, nº 485&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.517744,-3.729314,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa na Rua Floriano Peixoto</name>
+				<description><![CDATA[GID: 68<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Floriano Peixoto, nº 137<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>68</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Floriano Peixoto, nº 137&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.525879,-3.723741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cemitério São João Batista</name>
+				<description><![CDATA[GID: 69<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Padre Mororó, nº 487<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>69</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Padre Mororó, nº 487&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.538805,-3.720224,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Associação Beneficente do Pessoal da Rede de Viação Cearense</name>
+				<description><![CDATA[GID: 70<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Senador Alencar, nº 596<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>70</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Senador Alencar, nº 596&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.531134,-3.723734,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Associação Comercial</name>
+				<description><![CDATA[GID: 71<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Major Facundo, nº 02<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>71</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 02&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526412,-3.723068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Procuradoria da União no Estado do Ceará</name>
+				<description><![CDATA[GID: 72<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Guilherme Rocha, nº 1342<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>72</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, nº 1342&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.537956,-3.723829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bangalô Amarelo</name>
+				<description><![CDATA[GID: 73<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Guilherme Rocha, nº 1451<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>73</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, nº 1451&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.539255,-3.72324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vila Filomeno</name>
+				<description><![CDATA[GID: 74<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Av. Francisco Sá, n º1743, 1743A, 1743B / nº 1771, 1771A, 1771B<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>74</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Av. Francisco Sá, n º1743, 1743A, 1743B / nº 1771, 1771A, 1771B&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.542029,-3.722692,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa do Acrísio</name>
+				<description><![CDATA[GID: 75<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua São Paulo, nº 1889<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>75</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua São Paulo, nº 1889&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.542249,-3.721402,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Associação Beneficente dos Motoristas do Estado do Ceará</name>
+				<description><![CDATA[GID: 76<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Major Facundo, nº 1263<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>76</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 1263&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.529833,-3.734075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Prédio na Avenida Francisco Sá</name>
+				<description><![CDATA[GID: 77<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Francisco Sá, nº 2235<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>77</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Francisco Sá, nº 2235&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.545505,-3.721402,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Prédio na Rua Major Facundo</name>
+				<description><![CDATA[GID: 78<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Major Facundo, nº 1154<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>78</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Major Facundo, nº 1154&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.529688,-3.733055,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Associação dos Merceeiros</name>
+				<description><![CDATA[GID: 79<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua General Clarindo de Queiroz, nº 583<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>79</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua General Clarindo de Queiroz, nº 583&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.531033,-3.732365,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa na Rua Clarindo de Queiroz, nº 615</name>
+				<description><![CDATA[GID: 80<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Clarindo de Queiroz, nº 615<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>80</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Clarindo de Queiroz, nº 615&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.529692,-3.73296,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa na Rua da Assunção, nº 398</name>
+				<description><![CDATA[GID: 81<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua da Assunção, nº 398<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>81</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua da Assunção, nº 398&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.528462,-3.73351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa na Rua da Assunção, nº 390</name>
+				<description><![CDATA[GID: 82<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua da Assunção, nº 390<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>82</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua da Assunção, nº 390&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.528451,-3.733403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Prédio na Rua Santo Inácio, nº 596</name>
+				<description><![CDATA[GID: 83<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Santo Inácio, nº 596<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>83</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Santo Inácio, nº 596&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.540717,-3.717863,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casa na Rua 25 de março, nº 747</name>
+				<description><![CDATA[GID: 84<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua 25 de março, nº 747<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>84</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 25 de março, nº 747&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.522744,-3.730588,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imóvel na Av. Imperador, nº 1313</name>
+				<description><![CDATA[GID: 85<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Imóvel na Av. Imperador, nº 1313<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>85</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Imóvel na Av. Imperador, nº 1313&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.535962,-3.732713,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imóvel na Av. Santos Dumont, nº 1112</name>
+				<description><![CDATA[GID: 86<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Santos Dumont, nº 1112<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>86</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 1112&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.514429,-3.731112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imóvel na Av. Santos Dumont, nº 938</name>
+				<description><![CDATA[GID: 87<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Santos Dumont, nº 938<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>87</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 938&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.515201,-3.730855,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imóvel na Rua 25 de março, nº 964</name>
+				<description><![CDATA[GID: 88<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua 25 de março, nº 964<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>88</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 25 de março, nº 964&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.523591,-3.732354,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imóvel na Av. Santos Dumont, nº 1028</name>
+				<description><![CDATA[GID: 89<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Santos Dumont, nº 1028<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>89</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 1028&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.514214,-3.731166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colégio Externato São Vicente de Paulo</name>
+				<description><![CDATA[GID: 90<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua 25 de março, nº 407<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>90</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua 25 de março, nº 407&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.521842,-3.727595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja Nossa Senhora do Patrocínio</name>
+				<description><![CDATA[GID: 91<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Guilherme Rocha, nº 536<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>91</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, nº 536&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.536466,-3.724121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja de Santa Edwiges</name>
+				<description><![CDATA[GID: 92<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Presidente Castelo Branco, nº 600<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>92</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Presidente Castelo Branco, nº 600&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.532464,-3.718864,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seminário Salvatoriano</name>
+				<description><![CDATA[GID: 93<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Germano Frank, 613<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>93</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Germano Frank, 613&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.561443,-3.776912,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hotel Excelsior</name>
+				<description><![CDATA[GID: 94<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Guilherme Rocha, n° 172<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>94</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Guilherme Rocha, n° 172&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.52648,-3.727536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Condomínio Residencial Iracema</name>
+				<description><![CDATA[GID: 95<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Antônio Augusto, números 149, 185, 205 e 235<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>95</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Antônio Augusto, números 149, 185, 205 e 235&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.510637,-3.722527,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edifício Dona Bela</name>
+				<description><![CDATA[GID: 96<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Coronel Ferraz, números 30, 62, 76<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>96</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Coronel Ferraz, números 30, 62, 76&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.523334,-3.7279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Igreja do Cristo Rei</name>
+				<description><![CDATA[GID: 97<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Nogueira Acioli, nº 805<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>97</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Nogueira Acioli, nº 805&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.517036,-3.730812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imóvel residencial no Montese</name>
+				<description><![CDATA[GID: 98<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Rua Euzébio de Queiroz, 1591<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>98</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua Euzébio de Queiroz, 1591&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.55478,-3.768786,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imóvel na Av. Santos Dumont, nº 1020</name>
+				<description><![CDATA[GID: 99<br>TTOMB: Municipal<br>DESCRICAO: <br><strong>Endereço: </strong>Avenida Santos Dumont, nº 1020<br><br><strong>Proteção: </strong>Em Processo de Tombamento<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>99</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Municipal</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Avenida Santos Dumont, nº 1020&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Em Processo de Tombamento</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.514534,-3.731,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sociedade União Cearense</name>
+				<description><![CDATA[GID: 100<br>TTOMB: Estadual<br>DESCRICAO: <br><strong>Endereço: </strong>Rua João Moreira, nº 143<br><br><strong>Proteção: </strong>Tombado<br>FONTE: SECULTFOR<br>ANO_REF: 2016]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='GID'>
+						<value>100</value>
+					</Data>
+					<Data name='TTOMB'>
+						<value>Estadual</value>
+					</Data>
+					<Data name='DESCRICAO'>
+						<value>&lt;br&gt;&lt;strong&gt;Endereço: &lt;/strong&gt;Rua João Moreira, nº 143&lt;br&gt;&lt;br&gt;&lt;strong&gt;Proteção: &lt;/strong&gt;Tombado</value>
+					</Data>
+					<Data name='FONTE'>
+						<value>SECULTFOR</value>
+					</Data>
+					<Data name='ANO_REF'>
+						<value>2016</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-38.526461,-3.723056,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
